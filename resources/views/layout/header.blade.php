@@ -128,14 +128,14 @@
                 <div class="header-left">
                     <div class="logo headerLogo logo-dark">
                         <a href="{{ route('Home') }}">
-                            <img src="{{ asset('assets/images/luckyStarLogo.png') }}" alt="Lucky Star Logo Images">
+                            <img src="{{ asset('assets/images/AsteqLogo.png') }}" alt="Asteq Logo Images">
                         </a>
                     </div>
 
                     <div class="logo headerLogo d-none logo-light">
                         <a href="{{ route('Home') }}">
-                            <img src="{{ asset('assets/images/luckyStarLogo-dark.png') }}"
-                                alt="Lucky Star Dark Logo Images">
+                            <img src="{{ asset('assets/images/AsteqLogo.png') }}"
+                                alt="Asteq Dark Logo Images">
                         </a>
                     </div>
                 </div>
@@ -459,14 +459,14 @@
                 <div class="logo">
                     <div class="logo logo-dark">
                         <a href="#">
-                            <img src="{{ asset('assets/images/luckyStarLogo.png') }}" alt="Lucky Star Logo Images">
+                            <img src="{{ asset('assets/images/AsteqLogo.png') }}" alt="Asteq Logo Images">
                         </a>
                     </div>
 
                     <div class="logo d-none logo-light">
                         <a href="#">
-                            <img src="{{ asset('assets/images/luckyStarLogo-dark.png') }}"
-                                alt="Lucky Star Logo Images">
+                            <img src="{{ asset('assets/images/AsteqLogo.png') }}"
+                                alt="Asteq Logo Images">
                         </a>
                     </div>
                 </div>
