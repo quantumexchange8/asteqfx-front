@@ -106,10 +106,10 @@
                             <div class="header-info">
                                 <ul class="rbt-information-list">
                                     <li>
-                                        <a href="#"><i class="feather-mail"></i><span>example@gmail.com</span></a>
+                                        <a href="mailto:contactus@asteqfx.com"><i class="feather-mail"></i><span>contactus@asteqfx.com</span></a>
                                     </li>
                                     <li>
-                                        <a href="#"><i class="feather-phone"></i>+1-202-555-0174</a>
+                                        <a href="https://login.asteqfx.com/"><i class="feather-log-in"></i>Client Login</a>
                                     </li>
                                 </ul>
                             </div>

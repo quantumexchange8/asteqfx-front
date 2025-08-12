@@ -235,7 +235,7 @@
                         <li><a href="#">Terms of service</a></li>
                         <li><a href="">Privacy policy</a></li>
                         <li><a href="">Subscription</a></li>
-                        <li><a href="">Login & Register</a></li>
+                        <li><a href="https://login.asteqfx.com/">Login & Register</a></li>
                     </ul>
                 </div>
             </div>
