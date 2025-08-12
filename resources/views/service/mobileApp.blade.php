@@ -86,11 +86,11 @@
             <div class="row g-5">
                 <div class="col-12">
                     <div class="addmission-guide-content text-center pl--50 pl_sm--0 pl_md--0 --0">
-                        <h3 class="title">Trade Smarter, Anywhere with the Lucky Star Trading App
+                        <h3 class="title">Trade Smarter, Anywhere with the ASTEQ FX LIMITED Trading App
                         </h3>
                         <h5>Your Market. Your Strategy. Your Terms.</h5>
                         <p>Unlock global financial markets with the power of our all-in-one mobile trading app—designed for
-                            iOS and Android. The Lucky Star Trading App brings you lightning-fast trade execution, advanced
+                            iOS and Android. The ASTEQ FX LIMITED Trading App brings you lightning-fast trade execution, advanced
                             charting, real-time alerts, and seamless account management, all at your fingertips.</h5>
                         <div class="col-lg-12 col-md-6 col-12">
                             <ul class="plan-offer-list">
@@ -320,7 +320,7 @@
                         <div class="rbt-cta-5">
                             <div class="content">
                                 <h1 class="title">Download Our App & Start Trading Today</h1>
-                                <p>Your edge in the markets starts with the Lucky Star Trading App.</p>
+                                <p>Your edge in the markets starts with the ASTEQ FX LIMITED Trading App.</p>
                                 <p>Download now and trade
                                     with confidence—wherever you are.
                                     (Available on iOS and Android)</p>

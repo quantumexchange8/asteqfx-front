@@ -131,7 +131,7 @@
                                 </h5>
                                 <h5>
                                     — Access the
-                                    markets from anywhere with desktop or mobile and trade confidently with Lucky Star —
+                                    markets from anywhere with desktop or mobile and trade confidently with ASTEQ FX LIMITED —
                                 </h5>
                                 <!-- Start List Style  -->
                                 <div class="col-lg-6 col-md-8 col-12"
@@ -403,7 +403,7 @@
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
                             <p class="color-white">
-                                Start Your Trading Journey with Lucky Star Today! Join our community of successful traders
+                                Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our community of successful traders
                                 and
                                 experience the power of our advanced trading platform.
                             </p>

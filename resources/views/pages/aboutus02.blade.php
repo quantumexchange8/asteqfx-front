@@ -77,9 +77,9 @@
                 <div class="col-lg-6" data-sal-delay="300" data-sal="slide-right" data-sal-duration="600">
                     <div class="inner pl--50 pl_sm--5">
                         <div class="content text-start">
-                            <span class="rbt-badge-6 bg-primary-opacity">About Lucky Star</span>
-                            <h3 class="title">Welcome to Lucky Star — Your Gateway to Smarter Trading.</h3>
-                            <p class="description mt--30"><strong>Lucky Star trading platform</strong> empowers you
+                            <span class="rbt-badge-6 bg-primary-opacity">About ASTEQ FX LIMITED</span>
+                            <h3 class="title">Welcome to ASTEQ FX LIMITED — Your Gateway to Smarter Trading.</h3>
+                            <p class="description mt--30"><strong>ASTEQ FX LIMITED trading platform</strong> empowers you
                                 with advanced tools, real-time insights, and seamless execution for a better trading
                                 experience.</p>
                             <p class="description">Whether you're a beginner or seasoned trader, our platform
@@ -426,7 +426,7 @@
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
-                            <p class="color-white"> Start Your Trading Journey with Lucky Star Today! Join our community of
+                            <p class="color-white"> Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our community of
                                 successful traders and
                                 experience the power of our advanced trading platform.
                             </p>

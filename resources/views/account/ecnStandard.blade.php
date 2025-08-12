@@ -466,7 +466,7 @@
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
-                            <p class="color-white"> Start Your Trading Journey with Lucky Star Today! Join our
+                            <p class="color-white"> Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our
                                 community of
                                 successful traders and
                                 experience the power of our advanced trading platform.

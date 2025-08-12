@@ -176,7 +176,7 @@
                                     commodities allows you to diversify your investment portfolio, hedge against inflation,
                                     and profit from both rising and falling market conditions. Whether you're a beginner or
                                     a seasoned investor, precious metals provide a timeless and globally valued opportunity.
-                                    Start trading with Lucky Star and harness the potential of these powerful, real-world
+                                    Start trading with ASTEQ FX LIMITED and harness the potential of these powerful, real-world
                                     assets.
                                 </p>
                                 <ul class="course-feature-list justify-content-center">
@@ -220,9 +220,9 @@
                     <div class="modern-course-features-box h-100">
                         <div class="bg-img-2"></div>
                         <div class="content">
-                            <h4 class="title mt--2">Why Trade Precious Metals with Lucky Star?</h4>
+                            <h4 class="title mt--2">Why Trade Precious Metals with ASTEQ FX LIMITED?</h4>
                             <p>
-                                At Lucky Star, we combine modern technology with time-tested market reliability to help you
+                                At ASTEQ FX LIMITED, we combine modern technology with time-tested market reliability to help you
                                 seize opportunities in precious metal trading — whether it's gold, silver, platinum, or
                                 beyond.
                             </p>
@@ -419,7 +419,7 @@
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
                             <p class="color-white">
-                                Start Your Trading Journey with Lucky Star Today! Join our community of successful
+                                Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our community of successful
                                 traders
                                 and
                                 experience the power of our advanced trading platform.

@@ -406,7 +406,7 @@
                             <span class="theme-gradient">Seamless Integration</span>
                         </h6>
 
-                        <h3 class="rbt-card-title">Advanced Market Depth with Lucky Star Integration</h3>
+                        <h3 class="rbt-card-title">Advanced Market Depth with ASTEQ FX LIMITED Integration</h3>
                         <p class="rbt-card-text" style="font-size: 18px;">MT5 offers a significant edge over MT4,
                             including faster trade execution, tighter spreads, and superior charting capabilities.</p>
                         <br />
@@ -437,7 +437,7 @@
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
-                            <p class="color-white"> Start Your Trading Journey with Lucky Star Today! Join our community of
+                            <p class="color-white"> Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our community of
                                 successful traders and
                                 experience the power of our advanced trading platform.
                             </p>

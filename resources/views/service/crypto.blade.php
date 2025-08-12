@@ -180,7 +180,7 @@
                                 <h4>Unlock the Power of Digital Currencies
                                 </h4>
                                 <p>
-                                    Join the crypto revolution with Lucky Star. From Bitcoin to emerging altcoins, our
+                                    Join the crypto revolution with ASTEQ FX LIMITED. From Bitcoin to emerging altcoins, our
                                     platform gives you access to a wide range of digital assets, with low fees, high-speed
                                     execution, and advanced tools built for performance.Enjoy full control of your crypto
                                     strategy—anytime, anywhere—backed by a seamless trading experience tailored for both
@@ -227,9 +227,9 @@
                     <div class="modern-course-features-box h-100">
                         <div class="bg-img-2"></div>
                         <div class="content">
-                            <h4 class="title mt--2">Why Trade Cryptocurrency with Lucky Star?</h4>
+                            <h4 class="title mt--2">Why Trade Cryptocurrency with ASTEQ FX LIMITED?</h4>
                             <p>
-                                Step into the world of digital finance with Lucky Star, your trusted gateway to global
+                                Step into the world of digital finance with ASTEQ FX LIMITED, your trusted gateway to global
                                 cryptocurrency markets. Whether you're trading Bitcoin, Ethereum, or emerging altcoins, we
                                 offer a secure, efficient, and user-centric platform designed to elevate your trading
                                 experience.
@@ -441,7 +441,7 @@
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
                             <p class="color-white">
-                                Start Your Trading Journey with Lucky Star Today! Join our community of successful
+                                Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our community of successful
                                 traders
                                 and
                                 experience the power of our advanced trading platform.

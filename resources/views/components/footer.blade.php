@@ -227,7 +227,7 @@
             <div class="row align-items-center">
                 <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
                     <p class="rbt-link-hover text-center text-lg-start">Copyright © {{ now()->year }} <a
-                            href="#">Lucky Star.</a> All Rights Reserved</p>
+                            href="#">ASTEQ FX LIMITED.</a> All Rights Reserved</p>
                 </div>
                 <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
                     <ul

@@ -170,7 +170,7 @@
                             <div class="content">
                                 <h4>Trade the World’s Leading Stock Markets in One Move
                                 </h4>
-                                <p>Experience the power of index trading with Lucky Star — gain exposure to major global
+                                <p>Experience the power of index trading with ASTEQ FX LIMITED — gain exposure to major global
                                     stock
                                     indices like the S&P 500, NASDAQ, DAX, and more. With competitive leverage, ultra-fast
                                     execution, and zero commissions, you can trade on rising or falling markets without
@@ -208,7 +208,7 @@
                     <div class="modern-course-features-box h-100">
                         <div class="bg-img-2"></div>
                         <div class="content">
-                            <h4 class="title mt--2">Why Trade Indices with Lucky Star?</h4>
+                            <h4 class="title mt--2">Why Trade Indices with ASTEQ FX LIMITED?</h4>
                             <ul class="rbt-list-style-1">
                                 <li><i class="feather-check"></i>Smarter Trading, Broader Opportunities</li>
                                 <li><i class="feather-check"></i>Built-in Risk Protection</li>
@@ -415,7 +415,7 @@
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
                             <p class="color-white">
-                                Start Your Trading Journey with Lucky Star Today! Join our community of successful
+                                Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our community of successful
                                 traders
                                 and
                                 experience the power of our advanced trading platform.

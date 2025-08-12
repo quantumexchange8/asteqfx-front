@@ -192,11 +192,11 @@
                                 </h4>
                                 <p>
                                     Step into the global stock markets with the power of CFDs and trade leading brands like
-                                    Tesla, Amazon, and Apple—without owning the shares. With Lucky Star, you can go long or
+                                    Tesla, Amazon, and Apple—without owning the shares. With ASTEQ FX LIMITED, you can go long or
                                     short, access competitive leverage, and benefit from real-time execution on a secure,
                                     professional platform. Maximize your opportunities across industries while managing your
                                     risk with advanced tools and deep liquidity. Discover smarter ways to trade stocks and
-                                    diversify your portfolio with ease. with Lucky Star and harness the potential of these
+                                    diversify your portfolio with ease. with ASTEQ FX LIMITED and harness the potential of these
                                     powerful, real-world
                                     assets.
                                 </p>
@@ -231,7 +231,7 @@
                     <div class="modern-course-features-box h-100">
                         <div class="bg-img-2"></div>
                         <div class="content">
-                            <h4 class="title mt--2">Why Trade Stock with Lucky Star?</h4>
+                            <h4 class="title mt--2">Why Trade Stock with ASTEQ FX LIMITED?</h4>
                             <ul class="rbt-list-style-1">
                                 <li><i class="feather-check"></i>Controlled Risk, Unlimited Potential</li>
                                 <li><i class="feather-check"></i>Maximise Exposure with High Leverage</li>
@@ -242,7 +242,7 @@
                                 </li>
                             </ul>
                             <p style="margin-top: 10px;">
-                                Ready to trade smarter? Join Lucky Star and experience a powerful, transparent stock trading
+                                Ready to trade smarter? Join ASTEQ FX LIMITED and experience a powerful, transparent stock trading
                                 platform built for your success.
                             </p>
                         </div>
@@ -537,7 +537,7 @@
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
                             <p class="color-white">
-                                Start Your Trading Journey with Lucky Star Today! Join our community of successful
+                                Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our community of successful
                                 traders
                                 and
                                 experience the power of our advanced trading platform.

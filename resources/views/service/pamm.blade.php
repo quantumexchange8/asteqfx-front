@@ -345,7 +345,7 @@
     </div>
 
     <div class="rbt-about-area about-style-1 bg-color-white rbt-section-gapTop text-center">
-        <h2 class="p-3">Why Choose Lucky Star PAMM?</h2>
+        <h2 class="p-3">Why Choose ASTEQ FX LIMITED PAMM?</h2>
 
         <div class="rbt-categories-area bg-color-white">
             <div class="container reverse-flex">
@@ -457,7 +457,7 @@
 
                             <div class="tab-pane fade" id="cate-tab-2" role="tabpanel" aria-labelledby="cate-tab-2-tab">
                                 <div class="rbt-categori-list medium-size flex-wrap justify-content-center">
-                                    <p>Lucky Star provides ultra-tight spreads and a low-commission structure, allowing both
+                                    <p>ASTEQ FX LIMITED provides ultra-tight spreads and a low-commission structure, allowing both
                                         fund managers and investors to maximize returns by minimizing trading costs.</p>
 
                                 </div>
@@ -859,7 +859,7 @@
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
-                            <p class="color-white"> Start Your Trading Journey with Lucky Star Today! Join our
+                            <p class="color-white"> Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our
                                 community of
                                 successful traders and
                                 experience the power of our advanced trading platform.

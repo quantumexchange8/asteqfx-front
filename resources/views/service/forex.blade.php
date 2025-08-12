@@ -248,7 +248,7 @@
                     <div class="modern-course-features-box h-100">
                         <div class="bg-img-2"></div>
                         <div class="content">
-                            <h4 class="title mt--2">Why Trade Forex with Lucky Star?</h4>
+                            <h4 class="title mt--2">Why Trade Forex with ASTEQ FX LIMITED?</h4>
                             <ul class="rbt-list-style-1">
                                 <li><i class="feather-check"></i>Trade with slim spreads and leverage up to 500:1</li>
                                 <li><i class="feather-check"></i>50+ currency pairs available 24/5.</li>
@@ -272,7 +272,7 @@
                     <div class="modern-course-features-box h-100">
                         <div class="content">
                             <h4>Your Funds and Data Are Always Protected</h4>
-                            <p>Your trust is our foundation. With Lucky Star, you’re backed by a secure trading environment,
+                            <p>Your trust is our foundation. With ASTEQ FX LIMITED, you’re backed by a secure trading environment,
                                 robust technology, and a commitment to transparency — so you can focus on trading the
                                 markets, while we protect what matters most.
                             </p>
@@ -475,7 +475,7 @@
                     <div class="col-xxl-6 col-xl-6 col-lg-6">
                         <div class="inner-content text-start">
                             <p class="color-white">
-                                Start Your Trading Journey with Lucky Star Today! Join our community of successful
+                                Start Your Trading Journey with ASTEQ FX LIMITED Today! Join our community of successful
                                 traders
                                 and
                                 experience the power of our advanced trading platform.
