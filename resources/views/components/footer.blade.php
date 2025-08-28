@@ -28,7 +28,7 @@
                             and motivated people. Don’t be shy introduce yourself!
                         </p>
 
-                        <ul class="social-icon social-default justify-content-start">
+                        <!-- <ul class="social-icon social-default justify-content-start">
                             <li><a href="https://www.facebook.com/">
                                     <i class="feather-facebook"></i>
                                 </a>
@@ -45,7 +45,7 @@
                                     <i class="feather-linkedin"></i>
                                 </a>
                             </li>
-                        </ul>
+                        </ul> -->
 
                         <div class="contact-btn mt--30">
                             <a class="rbt-btn hover-icon-reverse btn-border-gradient radius-round" href="{{route('contact')}}">
@@ -72,12 +72,12 @@
                             <li>
                                 <a href="{{ route('ecnStandard') }}">ECN Account</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="{{ route('serviceMT5') }}">MT5</a>
                             </li>
                             <li>
                                 <a href="{{ route('serviceMobileApp') }}">Mobile App</a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="{{ route('servicePAMM') }}">PAMM</a>
                             </li>
@@ -106,10 +106,10 @@
                     <div class="footer-widget">
                         <h5 class="ft-title">Get Contact</h5>
                         <ul class="ft-link">
-                            <li><span>Phone:</span> <a href="#">(406) 555-0120</a></li>
-                            <li><span>E-mail:</span> <a href="mailto:hr@example.com">admin@example.com</a></li>
+                            <!-- <li><span>Phone:</span> <a>(406) 555-0120</a></li> -->
+                            <li><span>E-mail:</span> <a href="mailto:contact@asteqfx.com">contact@asteqfx.com</a></li>
                         </ul>
-                        <div style="text-align: left;">
+                        <!-- <div style="text-align: left;">
                             <a href="#" class="rbt-video-popup rbt-popup-youtube">
                                 <img src="{{ asset('assets/images/icons/googlePlay.png') }}" alt="Google Play"
                                     class="googlePlay"
@@ -210,7 +210,7 @@
                                     </g>
                                 </svg>
                             </a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -226,15 +226,19 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
-                    <p class="rbt-link-hover text-center text-lg-start">Copyright © {{ now()->year }} <a
-                            href="#">ASTEQ FX LIMITED.</a> All Rights Reserved</p>
+                    <p class="rbt-link-hover text-center text-lg-start">
+                        Copyright © 
+                        2013
+                        <!-- {{ now()->year }} -->
+                        <a href="{{ route('Home') }}">ASTEQ FX LIMITED.</a> All Rights Reserved
+                    </p>
                 </div>
                 <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
                     <ul
                         class="copyright-link rbt-link-hover justify-content-center justify-content-lg-end mt_sm--10 mt_md--10">
-                        <li><a href="#">Terms of service</a></li>
-                        <li><a href="">Privacy policy</a></li>
-                        <li><a href="">Subscription</a></li>
+                        <!-- <li><a href="#">Terms of service</a></li>
+                        <li><a href="">Privacy policy</a></li> -->
+                        <li><a href="{{ route('aml') }}">AML Policy</a></li>
                         <li><a href="https://login.asteqfx.com/">Login & Register</a></li>
                     </ul>
                 </div>

@@ -841,7 +841,7 @@
             </div>
             <!-- End Single Counter  -->
         </div>
-        <a class="rbt-btn btn-gradient" href="#" style="width: auto; margin-top:50px;">Create Account</a>
+        <a class="rbt-btn btn-gradient" href="https://login.asteqfx.com/" style="width: auto; margin-top:50px;">Create Account</a>
     </div>
     <!-- End Single Section  -->
 
@@ -868,7 +868,7 @@
                     </div>
                     <div class="col-xxl-3 col-xl-3 col-lg-6">
                         <div class="call-to-btn text-start text-xl-end">
-                            <a class="rbt-btn btn-white hover-icon-reverse" href="#">
+                            <a class="rbt-btn btn-white hover-icon-reverse" href="https://login.asteqfx.com/">
                                 <span class="icon-reverse-wrapper">
                                     <span class="btn-text">Try It Now</span>
                                     <span class="btn-icon"><i class="feather-arrow-right"></i></span>

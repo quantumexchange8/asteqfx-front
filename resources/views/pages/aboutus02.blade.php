@@ -44,12 +44,16 @@
 
                             <h1 class="title" style="color: white">About Us
                             </h1>
-                            <p class="description has-medium-font-size mt--20" style="color: white">Lorem, ipsum dolor sit
-                                amet consectetur
-                                adipisicing elit. Ex vero nam recusandae quisquam deleniti, eum distinctio totam? Corrupti,
-                                aliquam ducimus dolorem aperiam a, cumque in quod dicta, dolore sint autem!
+                            <p class="description has-medium-font-size mt--20" style="color: white">
+                                At AsteqFX we believe that the foreign exchange market should be accessible, transparent, and empowering for traders of all levels. Since our founding in 2025, we’ve been dedicated to providing the tools, technology, and market insights that enable our clients to trade with confidence.
+                                <br>
+                                <br>
+                                Our team is a diverse group of market analysts, software engineers, and customer support specialists united by one mission: 
+                                <br>
+                                <br>
+                                <span style="font-style: italic;">To make global currency trading smarter, faster, and more intuitive.</span>
                             </p>
-                            <div class="slider-btn rbt-button-group justify-content-center">
+                            <!-- <div class="slider-btn rbt-button-group justify-content-center">
                                 <a class="rbt-btn hover-icon-reverse btn-white" href="{{ route('contact') }}">
                                     <span class="icon-reverse-wrapper">
                                         <span class="btn-text">Contact Us</span>
@@ -57,7 +61,7 @@
                                         <span class="btn-icon"><i class="feather-arrow-right"></i></span>
                                     </span>
                                 </a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -86,7 +90,7 @@
                                 provides the flexibility, security, and support you need to navigate the markets
                                 with confidence.</p>
                             <div class="read-more-btn mt--40">
-                                <a class="rbt-btn rbt-marquee-btn radius-round btn-gradient" href="#">
+                                <a class="rbt-btn rbt-marquee-btn radius-round btn-gradient" href="https://login.asteqfx.com/">
                                     <span data-text="Start Trading For Free">
                                         Start Trading For Free
                                     </span>
@@ -177,7 +181,7 @@
 
 
         <!-- Start Advance Tab  -->
-        <div class="rbt-advance-tab-area rbt-section-gapTop bg-color-white" style="margin-bottom: 120px;">
+        <!-- <div class="rbt-advance-tab-area rbt-section-gapTop bg-color-white" style="margin-bottom: 120px;">
             <div class="container">
                 <div class="row g-5" data-sal-delay="200" data-sal="slide-up" data-sal-duration="1500">
                     <div class="col-lg-4 col-md-12 col-sm-12 col-12 mt_md--30 mt_sm--30 order-2 order-lg-1">
@@ -253,7 +257,7 @@
                             <div class="tab-pane fade advance-tab-content-1 active show" id="coreValues" role="tabpanel"
                                 aria-labelledby="coreValues-tab">
                                 <div class="row g-5">
-                                    <!-- Start Category Box Layout  -->
+                                    Start Category Box Layout 
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="100"
                                         data-sal="slide-up" data-sal-duration="400">
                                         <div class="rbt-cat-box rbt-cat-box-1 variation-4 text-center">
@@ -274,9 +278,9 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Category Box Layout  -->
+                                    End Category Box Layout 
 
-                                    <!-- Start Category Box Layout  -->
+                                    Start Category Box Layout 
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="300"
                                         data-sal="slide-up" data-sal-duration="400">
                                         <div class="rbt-cat-box rbt-cat-box-1 variation-4 text-center roundCV">
@@ -298,9 +302,9 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Category Box Layout  -->
+                                    End Category Box Layout 
 
-                                    <!-- Start Category Box Layout  -->
+                                    Start Category Box Layout 
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="500"
                                         data-sal="slide-up" data-sal-duration="400">
                                         <div class="rbt-cat-box rbt-cat-box-1 variation-4 text-center roundCV">
@@ -323,9 +327,9 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Category Box Layout  -->
+                                    End Category Box Layout 
 
-                                    <!-- Start Category Box Layout  -->
+                                    Start Category Box Layout 
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="700"
                                         data-sal="slide-up" data-sal-duration="400">
                                         <div class="rbt-cat-box rbt-cat-box-1 variation-4 text-center roundCV">
@@ -347,10 +351,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Category Box Layout  -->
+                                    End Category Box Layout 
 
 
-                                    <!-- Start Category Box Layout  -->
+                                    Start Category Box Layout 
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="900"
                                         data-sal="slide-up" data-sal-duration="400">
                                         <div class="rbt-cat-box rbt-cat-box-1 variation-4 text-center roundCV">
@@ -372,9 +376,9 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Category Box Layout  -->
+                                    End Category Box Layout 
 
-                                    <!-- Start Category Box Layout  -->
+                                    Start Category Box Layout 
                                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12" data-sal-delay="1000"
                                         data-sal="slide-up" data-sal-duration="400">
                                         <div class="rbt-cat-box rbt-cat-box-1 variation-4 text-center roundCV">
@@ -398,7 +402,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- End Category Box Layout  -->
+                                    End Category Box Layout 
 
                                 </div>
 
@@ -408,8 +412,129 @@
                     </div>
                 </div>
             </div>
+        </div> -->
+        <!-- End Advance Tab  -->
+
+        <!-- Start Story Section -->
+        <div class="rbt-about-area about-style-1 rbt-section-top-gap text-center position-relative">
+            <h4 class="title">Our Story</h4>
+            <div class="container position-relative">
+                <div class="col-12" style="font-weight: 500;">
+                    <p>
+                        It all began when a small group of traders and developers recognized a gap in the FX industry:
+                        too much complexity, too little clarity. We set out to build a trading platform that combined
+                        institutional-grade technology with user-friendly design, making the power of global markets available 
+                        to anyone with an internet connection.
+                    </p>
+                    <p>
+                        Today, we serve thousands of traders across the globe 
+                        <span style="font-style: italic;">— providing not just a trading platform, but a community.</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!-- End Story Section -->
+
+        <!-- Start Advance Tab  -->
+        <div class="rbt-advance-tab-area rbt-section-gapTop bg-color-white" style="margin-bottom: 120px;">
+            <div class="container">
+                <div class="row g-5" data-sal-delay="200" data-sal="slide-up" data-sal-duration="1500">
+                    <!-- Left side tab buttons -->
+                    <div class="col-lg-4 col-md-12 col-sm-12 col-12 mt_md--30 mt_sm--30 order-2 order-lg-1">
+                        <div class="advance-tab-button advance-tab-button-1">
+                            <ul class="nav nav-tabs tab-button-list" id="aboutmyTab" role="tablist">
+
+                                <li class="nav-item" role="presentation">
+                                    <a href="#" class="nav-link tab-button active" id="mission-tab" data-bs-toggle="tab"
+                                        data-bs-target="#mission" role="tab" aria-controls="mission" aria-selected="true">
+                                        <div class="tab">
+                                            <h4 class="title">Our Mission</h4>
+                                            <p class="description">Delivering reliable infrastructure and support for all traders.</p>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li class="nav-item" role="presentation">
+                                    <a href="#" class="nav-link tab-button" id="choose-tab" data-bs-toggle="tab"
+                                        data-bs-target="#choose" role="tab" aria-controls="choose" aria-selected="false">
+                                        <div class="tab">
+                                            <h4 class="title">Why Choose Us</h4>
+                                            <p class="description">Speed, tools, education, compliance, and global access.</p>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li class="nav-item" role="presentation">
+                                    <a href="#" class="nav-link tab-button" id="values-tab" data-bs-toggle="tab"
+                                        data-bs-target="#values" role="tab" aria-controls="values" aria-selected="false">
+                                        <div class="tab">
+                                            <h4 class="title">Our Values</h4>
+                                            <p class="description">Transparency, innovation, client service, and integrity.</p>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Right side tab content -->
+                    <div class="col-lg-8 col-md-12 col-sm-12 col-12 order-1 order-lg-2 align-content-center">
+                        <div class="tab-content">
+
+                            <!-- Our Mission -->
+                            <div class="tab-pane fade advance-tab-content-1 active show" id="mission" role="tabpanel"
+                                aria-labelledby="mission-tab">
+                                <div class="inner"
+                                    style="text-align: center;box-shadow: 0 1px 3px rgba(0,0,0,0.2);padding:50px; border-radius: 10px;">
+                                    <div class="section-title text-start">
+                                        <span class="subtitle bg-coral-opacity">Our Mission</span>
+                                    </div>
+                                    <p class="description">
+                                        To deliver reliable trading infrastructure, cutting-edge analysis tools, and world-class support 
+                                        so that every client—from novice to seasoned professional—can navigate the FX markets effectively.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <!-- Why Choose Us -->
+                            <div class="tab-pane fade advance-tab-content-1" id="choose" role="tabpanel"
+                                aria-labelledby="choose-tab">
+                                <div class="inner"
+                                    style="text-align: center;box-shadow: 0 1px 3px rgba(0,0,0,0.2);padding:50px; border-radius: 10px;">
+                                    <div class="section-title text-start">
+                                        <span class="subtitle bg-coral-opacity">Why Choose Us</span>
+                                    </div>
+                                    <ul style="text-align: left; list-style-type: disc; padding-left: 20px;">
+                                        <li><strong>Real-Time Market Data</strong> – Lightning-fast execution and up-to-the-second rates.</li>
+                                        <li><strong>Advanced Tools</strong> – From technical analysis indicators to AI-driven trade signals.</li>
+                                        <li><strong>Education First</strong> – Webinars, tutorials, and market guides for all experience levels.</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <!-- Our Values -->
+                            <div class="tab-pane fade advance-tab-content-1" id="values" role="tabpanel"
+                                aria-labelledby="values-tab">
+                                <div class="inner"
+                                    style="text-align: center;box-shadow: 0 1px 3px rgba(0,0,0,0.2);padding:50px; border-radius: 10px;">
+                                    <div class="section-title text-start">
+                                        <span class="subtitle bg-coral-opacity">Our Values</span>
+                                    </div>
+                                    <ul style="text-align: left; list-style-type: disc; padding-left: 20px;">
+                                        <li><strong>Transparency</strong> – We operate with honesty in pricing, execution, and communication.</li>
+                                        <li><strong>Innovation</strong> – Continually evolving our platform to stay ahead of market trends.</li>
+                                        <li><strong>Client-Centric Service</strong> – Your success drives our business.</li>
+                                        <li><strong>Integrity</strong> – We adhere to the highest ethical and regulatory standards.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!-- End Advance Tab  -->
         </div>
+
     </div>
 
     <!-- Start CallTo Action Area  -->
@@ -434,7 +559,7 @@
                     </div>
                     <div class="col-xxl-3 col-xl-3 col-lg-6">
                         <div class="call-to-btn text-start text-xl-end">
-                            <a class="rbt-btn btn-white hover-icon-reverse" href="#">
+                            <a class="rbt-btn btn-white hover-icon-reverse" href="https://login.asteqfx.com/">
                                 <span class="icon-reverse-wrapper">
                                     <span class="btn-text">Try It Now</span>
                                     <span class="btn-icon"><i class="feather-arrow-right"></i></span>

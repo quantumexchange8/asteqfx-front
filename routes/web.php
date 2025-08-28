@@ -31,6 +31,7 @@ Route::prefix('Pages')->group(function () {
     Route::controller(pagesController::class)->group(function () {
         Route::get('/about', 'aboutus02')->name('about');
         Route::get('/contact', 'contact')->name('contact');
+        Route::get('/aml', 'aml')->name('aml');
     });
 });
 

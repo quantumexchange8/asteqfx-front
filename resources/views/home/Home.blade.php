@@ -723,7 +723,7 @@
                                     Powerful trading tools, always at your fingertips.</h3>
                                 <h6 class="subtitle cta-text">
                                     Trade smarter, not harder.</h6>
-                                <a class="rbt-btn bg-secondary-opacity icon-hover mt-5" href="#">
+                                <a class="rbt-btn bg-secondary-opacity icon-hover mt-5" href="https://login.asteqfx.com/">
                                     <span class="btn-text">Sign Up Now</span>
                                     <span class="btn-icon"><i class="feather-arrow-right"></i></span>
                                 </a>
@@ -731,7 +731,7 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-4" style="margin-left: auto; margin-right: auto; text-align: center;">
+                    <!-- <div class="col-lg-4" style="margin-left: auto; margin-right: auto; text-align: center;">
                         <a href="#" class="rbt-video-popup rbt-popup-youtube">
                             <img src="{{ asset('assets/images/icons/googlePlay.png') }}" alt="Google Play"
                                 style="width: 170px; height: 57px; margin:30px; border-radius:12px;" />
@@ -832,7 +832,7 @@
                             </svg>
 
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -847,15 +847,13 @@
                     <h2 class="accordion-header card-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            What is Histudy ? How does it work?
+                            What is Forex trading?
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExamplea1">
                         <div class="accordion-body card-body">
-                            You can run Histudy easily. Any School, University, College can be use this
-                            histudy education template for their educational purpose. A university can be
-                            run their online leaning management system by histudy education template.
+                            Forex (foreign exchange) trading is the process of buying and selling currencies in the global marketplace. Traders aim to profit from the fluctuations in exchange rates between currency pairs such as EUR/USD, GBP/JPY, etc.
                         </div>
                     </div>
                 </div>
@@ -864,14 +862,13 @@
                     <h2 class="accordion-header card-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                            How can I get the customer support?
+                            Is Forex trading legal?
                         </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExamplea1">
                         <div class="accordion-body card-body">
-                            After purchasing the product need you any support you can be share with
-                            us with sending mail to pixcelsthemes@gmail.com.
+                            Yes, Forex trading is legal in most countries. However, regulations vary depending on your jurisdiction. Make sure to check the rules in your country and only trade with licensed brokers.
                         </div>
                     </div>
                 </div>
@@ -880,15 +877,13 @@
                     <h2 class="accordion-header card-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                            Can I get update regularly and For how long do I get updates?
+                            How do I open a trading account?
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExamplea1">
                         <div class="accordion-body card-body">
-                            Yes, We will get update the Histudy. And you can get it any time. Next
-                            time we will comes with more feature. You can be get update for
-                            unlimited times. Our dedicated team works for update.
+                            You can register online by filling out our application form, verifying your identity (KYC), and funding your account. Once approved, you can start trading immediately.
                         </div>
                     </div>
                 </div>
@@ -897,16 +892,50 @@
                     <h2 class="accordion-header card-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                            15 Things To Know About Education?
+                            What documents are required for account verification (KYC)?
                         </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                         data-bs-parent="#accordionExamplea1">
                         <div class="accordion-body card-body">
-                            If you're looking for random paragraphs, you've come to the right place. When a
-                            random word or a random sentence isn't quite enough, the next logical step is to
-                            find a random paragraph.
+                            Government-issued ID (passport, national ID, or driver’s license)
+                            <br>
+                            <br>
+                            Proof of address (utility bill, bank statement, or official letter)
+                            <br>
+                            <br>
+                            Sometimes additional documents may be requested for compliance.
                         </div>
+                    </div>
+                </div>
+
+                <div class="accordion-item card">
+                    <h2 class="accordion-header card-header" id="headingFive">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                            What is the minimum deposit?
+                        </button>
+                    </h2>
+                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                        data-bs-parent="#accordionExamplea1">
+                        <div class="accordion-body card-body">
+                            Our minimum deposit starts from $10, depending on your chosen account type.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="accordion-item card">
+                    <h2 class="accordion-header card-header" id="headingSix">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                            What are the trading hours?
+                        </button>
+                    </h2>
+                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+                        data-bs-parent="#accordionExamplea1">
+                        <div class="accordion-body card-body">
+                        The Forex market is open 24 hours a day, 5 days a week, from Monday to Friday. Specific instruments may have different trading hours.
+                    </div>
                     </div>
                 </div>
 
@@ -914,7 +943,7 @@
         </div>
     </div>
 
-    <div class="rbt-brand-area bg-color-white rbt-section-gapTop" data-sal="slide-up" data-sal-duration="800"
+    <!-- <div class="rbt-brand-area bg-color-white rbt-section-gapTop" data-sal="slide-up" data-sal-duration="800"
         data-sal-delay="300">
         <div class="container">
             <div class="row align-items-center justify-content-center">
@@ -937,7 +966,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <x-separator />
 @endsection

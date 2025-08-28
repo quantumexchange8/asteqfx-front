@@ -17,6 +17,11 @@ class PagesController extends Controller
         return view('pages/contact');
     }
 
+    public function aml()
+    {
+        return view('pages/aml');
+    }
+
     public function stpStandard()
     {
         return view('account/stpStandard');
@@ -26,4 +31,5 @@ class PagesController extends Controller
     {
         return view('account/ecnStandard');
     }
+
 }

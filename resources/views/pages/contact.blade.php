@@ -42,10 +42,8 @@
                     <div class="content">
                         <div class="inner text-center">
                             <h4 class="title" style="color: white">Contact</h4>
-                            <p class="description has-medium-font-size mt--20" style="color: white">Lorem, ipsum dolor sit
-                                amet consectetur
-                                adipisicing elit. Ex vero nam recusandae quisquam deleniti, eum distinctio totam? Corrupti,
-                                aliquam ducimus dolorem aperiam a, cumque in quod dicta, dolore sint autem!
+                            <p class="description has-medium-font-size mt--20" style="color: white">
+                                Whether you’re looking to hedge currency exposure, speculate on global trends, or simply learn how the FX market works, ASTEQ FX LIMITED is here to guide you every step of the way.
                             </p>
                         </div>
                     </div>
@@ -58,7 +56,7 @@
     <div class="rbt-contact-area rbt-section-gap">
         <div class="container">
             <div class="row g-5">
-                <div class="col-lg-4 col-md-6 col-sm-6 col-12 sal-animate" data-sal="slide-up" data-sal-delay="150"
+                <!-- <div class="col-lg-4 col-md-6 col-sm-6 col-12 sal-animate" data-sal="slide-up" data-sal-delay="150"
                     data-sal-duration="800">
                     <div class="rbt-address">
                         <div class="icon">
@@ -70,8 +68,8 @@
                             <p><a href="tel:+222222222333">+222 222 222 333</a></p>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-12 sal-animate" data-sal="slide-up" data-sal-delay="200"
+                </div> -->
+                <div class="col-lg-6 col-md-6 col-sm-6 col-12 sal-animate" data-sal="slide-up" data-sal-delay="200"
                     data-sal-duration="800">
                     <div class="rbt-address">
                         <div class="icon">
@@ -79,12 +77,12 @@
                         </div>
                         <div class="inner">
                             <h4 class="title">Our Email Address</h4>
-                            <p><a href="mailto:admin@gmail.com">admin@gmail.com</a></p>
-                            <p><a href="mailto:example@gmail.com">example@gmail.com</a></p>
+                            <p><a href="mailto:contact@asteqfx.com">contact@asteqfx.com</a></p>
+                            <!-- <p><a href="mailto:example@gmail.com">example@gmail.com</a></p> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-12 sal-animate" data-sal="slide-up" data-sal-delay="250"
+                <div class="col-lg-6 col-md-6 col-sm-6 col-12 sal-animate" data-sal="slide-up" data-sal-delay="250"
                     data-sal-duration="800">
                     <div class="rbt-address">
                         <div class="icon">
@@ -92,7 +90,12 @@
                         </div>
                         <div class="inner">
                             <h4 class="title">Our Location</h4>
-                            <p>5678 Bangla Main Road, cities 580 <br> GBnagla, example 54786</p>
+                            <p>
+                                Victoria House,<br>
+                                Gibraltar Business Centre Suites 21/22,<br>
+                                26 Main St, GX11 1AA,<br>
+                                Gibraltar
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -148,7 +151,7 @@
 
             <div class="rbt-google-map bg-color-white">
                 <iframe class="w-100"
-                    src="{{ asset('https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2965.0824050173574!2d-93.63905729999999!3d41.998507000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sWebFilings%2C+University+Boulevard%2C+Ames%2C+IA!5e0!3m2!1sen!2sus!4v1390839289319') }}"
+                    src="{{ asset('https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.9395020702723!2d-5.35584872344722!3d36.14368627244149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0cbf81beaf1b0b%3A0xd51c796aeb721a5f!2sGibraltar%20Business%20Centre!5e0!3m2!1sen!2smy!4v1756365889113!5m2!1sen!2smy') }}"
                     height="600" style="border:0"></iframe>
             </div>
         </div>
@@ -176,7 +179,7 @@
                         </div>
                         <div class="col-xxl-3 col-xl-3 col-lg-6">
                             <div class="call-to-btn text-start text-xl-end">
-                                <a class="rbt-btn btn-white hover-icon-reverse" href="#">
+                                <a class="rbt-btn btn-white hover-icon-reverse" href="https://login.asteqfx.com/">
                                     <span class="icon-reverse-wrapper">
                                         <span class="btn-text">Try It Now</span>
                                         <span class="btn-icon"><i class="feather-arrow-right"></i></span>

@@ -369,9 +369,15 @@
                                         1:1000</span>
                                 </div>
                                 <div class="pricing-btn-group pt--50">
-                                    <button class="rbt-btn btn-gradient w-100" style="white-space: nowrap;">Open
-                                        Account</button>
-                                    <button class="rbt-btn btn-border w-100">Try Demo</button>
+                                    <button 
+                                        type="button" 
+                                        class="rbt-btn btn-gradient w-100" 
+                                        style="white-space: nowrap;" 
+                                        onclick="window.location.href='https://login.asteqfx.com/';"
+                                    >
+                                        Open Account
+                                    </button>
+                                    <!-- <button class="rbt-btn btn-border w-100">Try Demo</button> -->
                                 </div>
                             </div>
                         </div>
@@ -475,7 +481,7 @@
                     </div>
                     <div class="col-xxl-3 col-xl-3 col-lg-6">
                         <div class="call-to-btn text-start text-xl-end">
-                            <a class="rbt-btn btn-white hover-icon-reverse" href="#">
+                            <a class="rbt-btn btn-white hover-icon-reverse" href="https://login.asteqfx.com/">
                                 <span class="icon-reverse-wrapper">
                                     <span class="btn-text">Try It Now</span>
                                     <span class="btn-icon"><i class="feather-arrow-right"></i></span>

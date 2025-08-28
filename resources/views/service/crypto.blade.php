@@ -450,7 +450,7 @@
                     </div>
                     <div class="col-xxl-3 col-xl-3 col-lg-6">
                         <div class="call-to-btn text-start text-xl-end">
-                            <a class="rbt-btn btn-white hover-icon-reverse" href="#">
+                            <a class="rbt-btn btn-white hover-icon-reverse" href="https://login.asteqfx.com/">
                                 <span class="icon-reverse-wrapper">
                                     <span class="btn-text">Try It Now</span>
                                     <span class="btn-icon"><i class="feather-arrow-right"></i></span>

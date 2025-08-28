@@ -106,7 +106,7 @@
                             <div class="header-info">
                                 <ul class="rbt-information-list">
                                     <li>
-                                        <a href="mailto:contactus@asteqfx.com"><i class="feather-mail"></i><span>contactus@asteqfx.com</span></a>
+                                        <a href="mailto:contact@asteqfx.com"><i class="feather-mail"></i><span>contact@asteqfx.com</span></a>
                                     </li>
                                     <li>
                                         <a href="https://login.asteqfx.com/"><i class="feather-log-in"></i>Client Login</a>
@@ -192,16 +192,16 @@
                                 <!-- End Mega Menu  -->
                             </li>
 
-                            <li class="with-megamenu has-menu-child-item">
+                            <!-- <li class="with-megamenu has-menu-child-item">
                                 <a href="#">Tools<i class="feather-chevron-down"></i></a>
-                                <!-- Start Mega Menu  -->
+                                Start Mega Menu 
                                 <div class="rbt-megamenu grid-item-2" style="width: 350px;">
                                     <div class="wrapper">
                                         <div class="row row--15">
                                             <div class="col-12 single-mega-item">
                                                 <div class="mega-category-item">
                                                     <h2 class="rbt-short-title">TRADING SOFTWARE</h3>
-                                                        <!-- Start Single Category  -->
+                                                        Start Single Category 
                                                         <div class="nav-category-item glass-effect"
                                                             style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ asset('assets/images/course/category2.jpg') }});">
                                                             <div class="thumbnail">
@@ -214,11 +214,11 @@
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <!-- End Single Category  -->
+                                                        End Single Category 
 
                                                         <h2 class="rbt-short-title" style="padding-top:2px;">TRADING
                                                             PLATFORM</h2>
-                                                        <!-- Start Single Category  -->
+                                                        Start Single Category 
                                                         <div class="nav-category-item glass-effect"
                                                             style="background-image: url({{ asset('assets/images/bg/navbarServiceBg-1.webp') }});">
                                                             <div class="thumbnail">
@@ -233,9 +233,9 @@
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <!-- End Single Category  -->
+                                                        End Single Category 
 
-                                                        <!-- Start Single Category  -->
+                                                        Start Single Category 
                                                         <div class="nav-category-item glass-effect"
                                                             style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ asset('assets/images/bg/navbarServiceBg-2.jpg') }});">
                                                             <div class="thumbnail">
@@ -250,13 +250,17 @@
                                                                 </a>
                                                             </div>
                                                         </div>
-                                                        <!-- End Single Category  -->
+                                                        End Single Category 
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- End Mega Menu  -->
+                                End Mega Menu 
+                            </li> -->
+
+                            <li class="with-megamenu has-menu-child-item position-static">
+                                <a href="{{ route('servicePAMM') }}">PAMM</a>
                             </li>
 
                             <li class="with-megamenu has-menu-child-item position-static">
@@ -265,7 +269,8 @@
                                 <div class="rbt-megamenu grid-item-2" style="width: 900px;">
                                     <div class="wrapper">
                                         <div class="row row--15">
-                                            <div class="col-8 single-mega-item">
+                                            <!-- <div class="col-8 single-mega-item"> -->
+                                            <div class="col-12 single-mega-item">
                                                 <div class="mega-category-item">
                                                     <h2 class="rbt-short-title" style="padding-top:2px;">TRADING
                                                         PRODUCT</h2>
@@ -361,13 +366,13 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-4 single-mega-item">
+                                            <!-- <div class="col-4 single-mega-item">
                                                 <div class="mega-category-item">
                                                     <h2 class="rbt-short-title" style="padding-top:2px;">Fund
                                                         Management</h2>
                                                     <div class="row">
                                                         <div class="col-12">
-                                                            <!-- Start Single Category  -->
+                                                            Start Single Category 
                                                             <div class="nav-category-item glass-effect"
                                                                 style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ asset('assets/images/bg/navbarServiceBg-8.webp') }});">
                                                                 <div class="thumbnail">
@@ -380,12 +385,12 @@
                                                                     </a>
                                                                 </div>
                                                             </div>
-                                                            <!-- End Single Category  -->
+                                                            End Single Category 
                                                         </div>
                                                     </div>
 
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -404,7 +409,7 @@
                     </nav>
                 </div>
 
-                <div class="header-right">
+                <!-- <div class="header-right">
                     <div class="header-info">
                         <ul class="rbt-dropdown-menu switcher-language d-none d-xl-block">
                             <li class="has-child-menu">
@@ -433,7 +438,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 <div class="header-right">
                     <!-- Start Mobile-Menu-Bar -->
                     <div class="mobile-menu-bar d-block d-xl-none">
@@ -477,7 +482,7 @@
             <p class="description">Histudy is a education website template. You can customize all.</p>
             <ul class="navbar-top-left rbt-information-list justify-content-start">
                 <li>
-                    <a href="mailto:hello@example.com"><i class="feather-mail"></i>example@gmail.com</a>
+                    <a href="mailto:contact@asteqfx.com"><i class="feather-mail"></i>contact@asteqfx.com</a>
                 </li>
                 <li>
                     <a href="#"><i class="feather-phone"></i>(302) 555-0107</a>
@@ -539,16 +544,16 @@
                     <!-- End Mega Menu  -->
                 </li>
 
-                <li class="with-megamenu has-menu-child-item position-static">
+                <!-- <li class="with-megamenu has-menu-child-item position-static">
                     <a href="#">Tools <i class="feather-chevron-down"></i></a>
-                    <!-- Start Mega Menu  -->
+                    Start Mega Menu 
                     <div class="rbt-megamenu grid-item-4">
                         <div class="wrapper">
                             <div class="row row--15" style="margin-top:10px;">
                                 <div class="col-lg-12 col-xl-3 col-xxl-3 single-mega-item">
                                     <div class="mega-category-item">
                                         <h2 class="rbt-short-title">TRADING SOFTWARE</h3>
-                                            <!-- Start Single Category  -->
+                                            Start Single Category 
                                             <div class="nav-category-item glass-effect"
                                                 style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ asset('assets/images/course/category2.jpg') }});">
                                                 <div class="thumbnail">
@@ -561,11 +566,11 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                            <!-- End Single Category  -->
+                                            End Single Category 
 
                                             <h2 class="rbt-short-title" style="padding-top:2px;">TRADING
                                                 PLATFORM</h2>
-                                            <!-- Start Single Category  -->
+                                            Start Single Category 
                                             <div class="nav-category-item glass-effect"
                                                 style="background-image: url({{ asset('assets/images/bg/navbarServiceBg-1.webp') }});">
                                                 <div class="thumbnail">
@@ -578,9 +583,9 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                            <!-- End Single Category  -->
+                                            End Single Category 
 
-                                            <!-- Start Single Category  -->
+                                            Start Single Category 
                                             <div class="nav-category-item glass-effect"
                                                 style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ asset('assets/images/bg/navbarServiceBg-2.jpg') }});">
                                                 <div class="thumbnail">
@@ -593,14 +598,18 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                            <!-- End Single Category  -->
+                                            End Single Category 
 
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!-- End Mega Menu  -->
+                    End Mega Menu 
+                </li> -->
+
+                <li class="position-static">
+                    <a href="{{ route('servicePAMM') }}">PAMM</a>
                 </li>
 
                 <li class="with-megamenu has-menu-child-item position-static">
@@ -670,11 +679,11 @@
                                             </div>
                                         </div>
                                         <!-- End Single Category  -->
-                                        <h2 class="rbt-short-title" style="padding-top:2px;">Fund
+                                        <!-- <h2 class="rbt-short-title" style="padding-top:2px;">Fund
                                             Management</h2>
                                         <div class="row">
                                             <div class="col-12">
-                                                <!-- Start Single Category  -->
+                                                Start Single Category 
                                                 <div class="nav-category-item glass-effect"
                                                     style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ asset('assets/images/bg/navbarServiceBg-8.webp') }});">
                                                     <div class="thumbnail">
@@ -688,9 +697,9 @@
                                                         </a>
                                                     </div>
                                                 </div>
-                                                <!-- End Single Category  -->
+                                                End Single Category 
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -707,7 +716,7 @@
             </ul>
         </nav>
 
-        <div class="header-info">
+        <!-- <div class="header-info">
             <ul class="rbt-dropdown-menu switcher-language">
                 <li class="has-child-menu">
                     <a href="#">
@@ -734,7 +743,7 @@
                     </ul>
                 </li>
             </ul>
-        </div>
+        </div> -->
 
     </div>
 </div>

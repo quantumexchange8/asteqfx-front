@@ -2491,17 +2491,28 @@ textarea:-ms-input-placeholder {
 .rbt-section-gap {
   padding: 120px 0;
 }
+
+.rbt-section-top-gap {
+  padding-top: 120px;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .rbt-section-gap {
     padding: 80px 0;
   }
+  .rbt-section-top-gap {
+    padding-top: 80px;
+  }
 }
+
 @media only screen and (max-width: 767px) {
   .rbt-section-gap {
     padding: 80px 0;
   }
+  .rbt-section-top-gap {
+    padding-top: 80px;
+  }
 }
-
 .rbt-section-gap2 {
   padding: 80px 0;
 }
@@ -23663,6 +23674,13 @@ body.modal-open {
   margin: 7px 0;
   line-height: 1.45;
 }
+
+.rbt-list-style-1.bullets li {
+  list-style-type: disc !important;
+  margin-bottom: 10px;
+  padding-left: 20px;
+}
+
 @media only screen and (max-width: 767px) {
   .rbt-list-style-1 li {
     font-size: 16px;
@@ -36338,6 +36356,11 @@ Course Sidebar
 .active-dark-mode .rbt-conatct-area.bg-gradient-11.rbt-section-gap {
   background: linear-gradient(180deg, rgba(74, 90, 110, 0.93), #192335) !important;
 }
+
+.active-dark-mode .rbt-conatct-area.bg-gradient-11.rbt-section-top-gap {
+  background: linear-gradient(180deg, rgba(74, 90, 110, 0.93), #192335) !important;
+}
+
 .active-dark-mode .course-sidebar .subtitle {
   color: var(--color-white-off);
 }
