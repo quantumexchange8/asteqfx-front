@@ -92,8 +92,11 @@
                             <li>
                                 <a href="{{ route('about') }}">About Us</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="">Privacy policy</a>
+                            </li> -->
+                            <li>
+                                <a href="{{ route('aml') }}">AML Policy</a>
                             </li>
                             <li>
                                 <a href="{{ route('contact') }}">Contact</a>
